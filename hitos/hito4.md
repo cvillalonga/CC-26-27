@@ -19,4 +19,4 @@ Además, el pipeline de CD integrará una verificación automatizada del *Reconc
   * Almacenamiento y uso exclusivo de claves de acceso, pares de llaves SSH y credenciales en **GitHub Secrets**.
   * Aplicación del principio de mínimo privilegio en las políticas IAM asignadas al usuario/rol de servicio de GitHub Actions.
 * **Gobernanza y Cumplimiento Normativo (RGPD):**
-  * Configuración explícita en el código de IaC y en el proveedor cloud demostrando que los recursos de cómputo y datos residen en una región de la Unión Europea.
+  * Demostración explícita de que la infraestructura y los datos residen bajo la jurisdicción del RGPD: selección explícita de una región de la Unión Europea en proveedores de nube pública o mediante el alojamiento directo en la infraestructura de la nube privada propia bajo control del alumno.
