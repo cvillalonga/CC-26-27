@@ -17,3 +17,8 @@ Los hitos para la realización del proyecto son los siguientes:
 * [**Hito 3:** Aprovisionamiento con Infraestructura como Código (IaC) y Verificación del Reconciler Pattern](hitos/hito3.md).
 * [**Hito 4:** Despliegue Continuo (CD), Reconciliación Automatizada y Seguridad](hitos/hito4.md).
 * [**Hito 5:** Observabilidad, Pruebas de Carga y Release Final](hitos/hito5.md).
+
+
+### Procedimiento de Entrega de Hitos
+
+Las entregas del proyecto se gestionan de forma centralizada mediante el envío de un **Pull Request** sobre este repositorio. Para entregar cada hito, debes realizar un *fork* de este repositorio (solo la primera vez), mantener tu copia sincronizada, editar el archivo correspondiente (`entregas/entregahitoN.md`) añadiendo la URL de tu repositorio personal en la fila asignada con tus datos y enviar la solicitud de cambio para su revisión. Puedes consultar las instrucciones detalladas paso a paso en la [Guía de Entrega de Hitos](entregas/README.md).
