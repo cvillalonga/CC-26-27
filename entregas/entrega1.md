@@ -13,7 +13,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | B. A. AARON | <!--enlace-->                                                           |
 | C. L. ANDRES | <!--enlace-->                                                           |
 | C. M. ALVARO | <!--enlace-->                                                           |
-| E. G. MOUAD | <!--enlace-->                                                           |
+| E. G. MOUAD | <!--[enlace](https://github.com/elgmouad/triage-agentics)-->                                                           |
 | E. M. RICARDO ANDRES | <!--enlace-->                                                           |
 | E. R. ANDRÉS LEONARDO | <!--enlace-->                                                           |
 | G. G. ANDRES | <!--enlace-->                                                           |
