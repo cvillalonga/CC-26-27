@@ -37,7 +37,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | R. S. JORGE | <!--enlace-->                                                           |
 | R. A. YADIRA | <!--enlace-->                                                           |
 | S. EL HALOUI | <!--enlace-->                                                           |
-| S. C. NATALIA | <!--enlace-->                                                           |
+| S. C. NATALIA | https://github.com/ntsec7/Cloud_Computing_Practicas                    |
 | T. L. CARLOS | <!--enlace-->                                                           |
 | V. A. EDGAR CAMILO | <!--enlace-->                                                           |
 | V. A. GERMAN | <!--enlace-->                                                           |
