@@ -31,7 +31,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | M. F. RAFAEL ALEXANDER | <!--enlace-->                                                           |
 | M. S. YASMINE | <!--enlace-->                                                           |
 | M. ZAKARIA | <!--enlace-->                                                           |
-| M. CHAIMAE | <!--enlace-->                                                           |
+| M. CHAIMAE |    https://github.com/ChaimaeMoussaoui8/nail-booking-cloud                                                           |
 | P. S. MIGUEL | <!--enlace-->                                                           |
 | R. M. MARIA | <!--enlace-->                                                           |
 | R. S. JORGE | <!--enlace-->                                                           |
