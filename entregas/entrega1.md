@@ -39,7 +39,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | S. EL HALOUI | <!--enlace-->                                                           |
 | S. C. NATALIA | <!--enlace-->                                                           |
 | T. L. CARLOS | <!--enlace-->                                                           |
-| V. A. EDGAR CAMILO | <!--enlace-->                                                           |
+| V. A. EDGAR CAMILO | https://github.com/edgarvargas-ugr/CC-2627-Practica-EdgarVargas |
 | V. A. GERMAN | <!--enlace-->                                                           |
 | W. G. N. JOSE CARLOS | <!--enlace-->                                                           |
 | --- | --- |
