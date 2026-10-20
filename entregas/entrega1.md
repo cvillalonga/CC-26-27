@@ -14,7 +14,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | C. L. ANDRES | <!--enlace-->                                                           |
 | C. M. ALVARO | <!--enlace-->                                                           |
 | E. G. MOUAD | <!--enlace-->                                                           |
-| E. M. RICARDO ANDRES | <!--enlace-->                                                           |
+| E. M. RICARDO ANDRES | https://github.com/ricardoenriquezm95/proyecto-tienda-plus     |
 | E. R. ANDRÉS LEONARDO | <!--enlace-->                                                           |
 | G. G. ANDRES | <!--enlace-->                                                           |
 | G. L. FELIPE | <!--enlace-->                                                           |
