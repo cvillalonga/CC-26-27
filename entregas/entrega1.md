@@ -10,7 +10,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | A. J. ANA | <!--enlace-->                                                           |
 | A. S. MATHEUS | <!--enlace-->                                                           |
 | B. G. OIER | <!--enlace-->                                                           |
-| B. A. AARON | <!--enlace-->                                                           |
+| B. A. AARON | https://github.com/aaronblanco/cc-turnos-cprl                                                           |
 | C. L. ANDRES | <!--enlace-->                                                           |
 | C. M. ALVARO | <!--enlace-->                                                           |
 | E. G. MOUAD | <!--enlace-->                                                           |
