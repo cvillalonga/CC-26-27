@@ -48,3 +48,4 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | B. R. DANIEL | <!--enlace-->                                                           |
 | M. R. JUAN CARLOS | <!--enlace-->                                                           |
 | M. C. MANUEL | <!--enlace-->                                                           |
+| T. C. JOSE JAVIER | https://github.com/jjtcUGR/CC-26-27.git |
