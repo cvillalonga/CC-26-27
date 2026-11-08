@@ -27,7 +27,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | L. C. DANIEL | <!--enlace-->                                                           |
 | L. A. MERCEDES | <!--enlace-->                                                           |
 | L. O. KAITO FRANCISCO | <!--enlace-->                                                           |
-| M. C. MANUEL | <!--enlace-->                                                           |
+| M. C. MANUEL |                                                           |
 | M. R. MARIA DEL MAR | <!--enlace-->                                                           |
 | M. G. PABLO | <!--enlace-->                                                           |
 | M. F. RAFAEL ALEXANDER | <!--enlace-->                                                           |
