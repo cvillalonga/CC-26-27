@@ -26,7 +26,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | L. LAMKAMI | <!--enlace-->                                                           |
 | L. C. DANIEL | <!--enlace-->                                                           |
 | L. A. MERCEDES | <!--enlace-->                                                           |
-| L. O. KAITO FRANCISCO | <!--enlace-->                                                           |
+| L. O. KAITO FRANCISCO | (https://github.com/kaitolorenzo03/ScentCraft)                                                           |
 | M. C. MANUEL | <!--enlace-->                                                           |
 | M. R. MARIA DEL MAR | <!--enlace-->                                                           |
 | M. G. PABLO | <!--enlace-->                                                           |
