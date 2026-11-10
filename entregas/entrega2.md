@@ -48,3 +48,5 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | T. R. IVAN ANDRES | <!--enlace-->                                                           |
 | V. A. EDGAR CAMILO | <!--enlace-->                                                           |
 | W. G. N. JOSE CARLOS | <!--enlace-->                                                           |
+| E. M. MOHAMED YASSINE | <!--enlace-->                                                           |
+| S. O. DANIEL | <!--enlace-->                                                           |
