@@ -53,7 +53,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | L. C. DANIEL | <!--enlace-->                                                           |
 | R. C. PABLO | <!--enlace-->                                                           |
 | S. H. DARLIGE JACQUES | <!--enlace-->                                                           |
-| T. C. JOSE JAVIER | <!--enlace-->                                                           |
+| T. C. JOSE JAVIER | https://github.com/jjtcUGR/simracing-telemetry |
 | T. R. IVAN ANDRES | <!--enlace-->                                                           |
 | --- | --- |
 | E. M. MOHAMED YASSINE | <!--enlace-->                                                           |
