@@ -25,7 +25,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | J. C. LEONELL CESAR | <!--enlace-->                                                           |
 | L. LAMKAMI | <!--enlace-->                                                           |
 | L. C. DANIEL | <!--enlace-->                                                           |
-| L. A. MERCEDES | <!--enlace-->                                                           |
+| L. A. MERCEDES | [MiGaraje](https://github.com/MercheLorenzo/MiGaraje)           |
 | L. O. KAITO FRANCISCO | <!--enlace-->                                                           |
 | M. C. MANUEL | <!--enlace-->                                                           |
 | M. R. MARIA DEL MAR | <!--enlace-->                                                           |
