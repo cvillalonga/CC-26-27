@@ -46,7 +46,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | T. C. JOSE JAVIER | <!--enlace-->                                                           |
 | T. L. CARLOS | <!--enlace-->                                                           |
 | T. R. IVAN ANDRES | <!--enlace-->                                                           |
-| V. A. EDGAR CAMILO | <!--enlace-->                                                           |
+| V. A. EDGAR CAMILO | https://github.com/edgarvargas-ugr/CC-2627-Practica-EdgarVargas |
 | W. G. N. JOSE CARLOS | <!--enlace-->                                                           |
 | E. M. MOHAMED YASSINE | <!--enlace-->                                                           |
 | S. O. DANIEL | <!--enlace-->                                                           |
