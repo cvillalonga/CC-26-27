@@ -17,7 +17,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | E. M. RICARDO ANDRES | <!--enlace-->                                                           |
 | E. R. ANDRÉS LEONARDO | <!--enlace-->                                                           |
 | G. G. ANDRES | <!--enlace-->                                                           |
-| G. L. FELIPE | <!--enlace-->                                                           |
+| G. L. FELIPE | https://github.com/feglez/AlexandrIA |
 | G. S. PABLO | <!--enlace-->                                                           |
 | I. G. CARLOS | <!--enlace-->                                                           |
 | J. C. LEONELL CESAR | <!--enlace-->                                                           |
