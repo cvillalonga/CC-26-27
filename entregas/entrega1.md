@@ -41,7 +41,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | T. L. CARLOS | <!--enlace-->                                                           |
 | V. A. EDGAR CAMILO | <!--enlace-->                                                           |
 | V. A. GERMAN | <!--enlace-->                                                           |
-| W. G. N. JOSE CARLOS | <!--enlace-->                                                           |
+| W. G. N. JOSE CARLOS |https://github.com/JoseGaldino08/CC-26-27-Personal          |
 | --- | --- |
 | A. C. ALBA MARÍA | <!--enlace-->                                                           |
 | R. D. JOSE | <!--enlace-->                                                           |
