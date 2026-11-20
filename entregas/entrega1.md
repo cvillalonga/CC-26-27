@@ -29,7 +29,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | M. R. MARIA DEL MAR | <!--enlace-->                                                           |
 | M. G. PABLO | <!--enlace-->                                                           |
 | M. F. RAFAEL ALEXANDER | <!--enlace-->                                                           |
-| M. S. YASMINE | <!--enlace-->                                                           |
+| M. S. YASMINE | https://github.com/Yasmine9MS/CC-Practica.git                                                           |
 | M. ZAKARIA | <!--enlace-->                                                           |
 | M. CHAIMAE | <!--enlace-->                                                           |
 | P. S. MIGUEL | <!--enlace-->                                                           |
