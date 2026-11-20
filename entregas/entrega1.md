@@ -9,7 +9,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | A. G. GERMAN | <!--enlace-->                                                           |
 | A. J. ANA | <!--enlace-->                                                           |
 | A. S. MATHEUS | <!--enlace-->                                                           |
-| B. G. OIER | <!--enlace-->                                                           |
+| B. G. OIER | [<!--enlace--> ](https://github.com/OierBaigo/PracticasCC-Plataforma-de-apuestas-deportivas-BETESP.git)                                                          |
 | B. A. AARON | <!--enlace-->                                                           |
 | C. L. ANDRES | <!--enlace-->                                                           |
 | C. M. ALVARO | <!--enlace-->                                                           |
