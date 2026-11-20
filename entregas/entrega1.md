@@ -46,7 +46,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | A. C. ALBA MARÍA | <!--enlace-->                                                           |
 | R. D. JOSE | <!--enlace-->                                                           |
 | B. R. DANIEL | <!--enlace-->                                                           |
-| M. R. JUAN CARLOS | <!--enlace-->                                                           |
+| M. R. JUAN CARLOS | [Synkron](https://github.com/jotace-18/Synkron) |
 | M. C. MANUEL | <!--enlace-->                                                           |
 | --- | --- |
 | A. B. MUSTAFA SAADFADHIL | <!--enlace-->                                                           |
