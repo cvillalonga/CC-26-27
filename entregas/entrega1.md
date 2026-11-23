@@ -18,7 +18,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | E. R. ANDRÉS LEONARDO | <!--enlace-->                                                           |
 | G. G. ANDRES | <!--enlace-->                                                           |
 | G. L. FELIPE | <!--enlace-->                                                           |
-| G. S. PABLO | <!--enlace-->                                                           |
+| G. S. PABLO | [CyberGuard](https://github.com/pgonzs08/CyberGuard)|
 | I. G. CARLOS | <!--enlace-->                                                           |
 | J. C. LEONELL CESAR | <!--enlace-->                                                           |
 | L. LAMKAMI | <!--enlace-->                                                           |
