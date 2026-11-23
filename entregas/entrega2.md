@@ -8,7 +8,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | A. S. DANIEL | <!--enlace-->                                                           |
 | A. E. YAILIN | <!--enlace-->                                                           |
 | A. G. GERMAN | <!--enlace-->                                                           |
-| A. C. ALBA MARIA | <!--enlace-->                                                           |
+| A. C. ALBA MARIA | [albaayala/CC-Practica](https://github.com/albaayala/CC-Practicas)  |
 | A. S. MATHEUS | <!--enlace-->                                                           |
 | B. G. OIER | <!--enlace-->                                                           |
 | B. R. DANIEL | <!--enlace-->                                                           |

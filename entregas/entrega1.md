@@ -43,7 +43,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | V. A. GERMAN | <!--enlace-->                                                           |
 | W. G. N. JOSE CARLOS | <!--enlace-->                                                           |
 | --- | --- |
-| A. C. ALBA MARÍA | <!--enlace-->                                                           |
+| A. C. ALBA MARÍA | [albaayala/CC-Practica](https://github.com/albaayala/CC-Practicas) |
 | R. D. JOSE | <!--enlace-->                                                           |
 | B. R. DANIEL | <!--enlace-->                                                           |
 | M. R. JUAN CARLOS | <!--enlace-->                                                           |
