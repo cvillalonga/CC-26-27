@@ -48,4 +48,13 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | B. R. DANIEL | <!--enlace-->                                                           |
 | M. R. JUAN CARLOS | <!--enlace-->                                                           |
 | M. C. MANUEL | <!--enlace-->                                                           |
-| T. R. IVAN ANDRES | https://github.com/andreeus3/hito-l-cloud-computing                                                          |
+| --- | --- |
+| A. B. MUSTAFA SAADFADHIL | <!--enlace-->                                                           |
+| L. C. DANIEL | <!--enlace-->                                                           |
+| R. C. PABLO | <!--enlace-->                                                           |
+| S. H. DARLIGE JACQUES | <!--enlace-->                                                           |
+| T. C. JOSE JAVIER | <!--enlace-->                                                           |
+| T. R. IVAN ANDRES | https://github.com/andreeus3/hito-l-cloud-computing                                                             |
+| --- | --- |
+| E. M. MOHAMED YASSINE | <!--enlace-->                                                           |
+| S. O. DANIEL | <!--enlace-->                                                           |
