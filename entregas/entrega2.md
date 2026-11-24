@@ -39,7 +39,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | R. M. MARIA | <!--enlace-->                                                           |
 | R. C. PABLO | <!--enlace-->                                                           |
 | R. A. YADIRA | <!--enlace-->                                                           |
-| R. D. JOSÉ | <!--enlace-->                                                           |
+| R. D. JOSÉ | https://github.com/Ellipsim/RetroSync                                                         |
 | S. EL HALOUI | <!--enlace-->                                                           |
 | S. C. NATALIA | <!--enlace-->                                                           |
 | S. H. DARLIGE JACQUES | <!--enlace-->                                                           |
