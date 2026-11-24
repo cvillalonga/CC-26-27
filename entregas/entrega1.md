@@ -20,7 +20,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | G. L. FELIPE | <!--enlace-->                                                           |
 | G. S. PABLO | <!--enlace-->                                                           |
 | I. G. CARLOS | <!--enlace-->                                                           |
-| J. C. LEONELL CESAR | <!--enlace-->                                                           |
+| J. C. LEONELL CESAR | https://github.com/LeonellJCUGR/PracticaCC1_LCJC/tree/V0.1.0 |
 | L. LAMKAMI | <!--enlace-->                                                           |
 | L. L. WILLIAM | <!--enlace-->                                                           |
 | L. A. MERCEDES | <!--enlace-->                                                           |
