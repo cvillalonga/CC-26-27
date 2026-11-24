@@ -11,7 +11,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | A. C. ALBA MARIA | <!--enlace-->                                                           |
 | A. S. MATHEUS | <!--enlace-->                                                           |
 | B. G. OIER | <!--enlace-->                                                           |
-| B. R. DANIEL | <!--enlace-->                                                           |
+| B. R. DANIEL | [practicas-cc](https://github.com/tigexpe/practicas-cc)                                                           |
 | B. A. AARON | <!--enlace-->                                                           |
 | C. L. ANDRES | <!--enlace-->                                                           |
 | C. M. ALVARO | <!--enlace-->                                                           |
