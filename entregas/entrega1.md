@@ -44,7 +44,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | W. G. N. JOSE CARLOS | <!--enlace-->                                                           |
 | --- | --- |
 | A. C. ALBA MARÍA | <!--enlace-->                                                           |
-| R. D. JOSE | <!--enlace-->                                                           |
+| R. D. JOSE | https://github.com/Ellipsim/RetroSync                                         |
 | B. R. DANIEL | <!--enlace-->                                                           |
 | M. R. JUAN CARLOS | <!--enlace-->                                                           |
 | M. C. MANUEL | <!--enlace-->                                                           |
