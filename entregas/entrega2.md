@@ -41,7 +41,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | R. A. YADIRA | <!--enlace-->                                                           |
 | R. D. JOSÉ | <!--enlace-->                                                           |
 | S. EL HALOUI | <!--enlace-->                                                           |
-| S. C. NATALIA | <!--enlace-->                                                           |
+| S. C. NATALIA | [Entrega hito 2 Natalia Serrano Cerceda](https://github.com/ntsec7/Cloud_Computing_Practicas)                                                           |
 | S. H. DARLIGE JACQUES | <!--enlace-->                                                           |
 | T. C. JOSE JAVIER | <!--enlace-->                                                           |
 | T. L. CARLOS | <!--enlace-->                                                           |
