@@ -54,7 +54,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | R. C. PABLO | <!--enlace-->                                                           |
 | S. H. DARLIGE JACQUES | <!--enlace-->                                                           |
 | T. C. JOSE JAVIER | <!--enlace-->                                                           |
-| T. R. IVAN ANDRES | <!--enlace-->                                                           |
+| T. R. IVAN ANDRES | https://github.com/andreeus3/hito-l-cloud-computing                                                             |
 | --- | --- |
 | E. M. MOHAMED YASSINE | <!--enlace-->                                                           |
 | S. O. DANIEL | <!--enlace-->                                                           |
