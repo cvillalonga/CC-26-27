@@ -43,7 +43,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | S. EL HALOUI | <!--enlace-->                                                           |
 | S. C. NATALIA | <!--enlace-->                                                           |
 | S. H. DARLIGE JACQUES | <!--enlace-->                                                           |
-| T. C. JOSE JAVIER | <!--enlace-->                                                           |
+| T. C. JOSE JAVIER | https://github.com/jjtcUGR/simracing-telemetry |
 | T. L. CARLOS | <!--enlace-->                                                           |
 | T. R. IVAN ANDRES | <!--enlace-->                                                           |
 | V. A. EDGAR CAMILO | <!--enlace-->                                                           |
