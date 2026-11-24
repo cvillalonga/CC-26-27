@@ -38,7 +38,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | R. A. YADIRA | <!--enlace-->                                                           |
 | S. EL HALOUI | <!--enlace-->                                                           |
 | S. C. NATALIA | <!--enlace-->                                                           |
-| T. L. CARLOS | <!--enlace-->                                                           |
+| T. L. CARLOS | [Planificador estudio cloud](https://github.com/caarlostl/planificador-estudio-cloud)                                                          |
 | V. A. EDGAR CAMILO | <!--enlace-->                                                           |
 | V. A. GERMAN | <!--enlace-->                                                           |
 | W. G. N. JOSE CARLOS | <!--enlace-->                                                           |
