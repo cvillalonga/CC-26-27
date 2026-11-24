@@ -32,7 +32,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | M. G. PABLO | <!--enlace-->                                                           |
 | M. F. RAFAEL ALEXANDER | <!--enlace-->                                                           |
 | M. S. YASMINE | <!--enlace-->                                                           |
-| M. R. JUAN CARLOS | <!--enlace-->                                                           |
+| M. R. JUAN CARLOS | https://github.com/jotace-18/Synkron |
 | M. ZAKARIA | <!--enlace-->                                                           |
 | M. CHAIMAE | <!--enlace-->                                                           |
 | P. S. MIGUEL | <!--enlace-->                                                           |
