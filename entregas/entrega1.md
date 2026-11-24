@@ -45,7 +45,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | --- | --- |
 | A. C. ALBA MARÍA | <!--enlace-->                                                           |
 | R. D. JOSE | <!--enlace-->                                                           |
-| B. R. DANIEL | <!--enlace-->                                                           |
+| B. R. DANIEL | [practicas-cc](https://github.com/tigexpe/practicas-cc)                                                          |
 | M. R. JUAN CARLOS | <!--enlace-->                                                           |
 | M. C. MANUEL | <!--enlace-->                                                           |
 | --- | --- |
