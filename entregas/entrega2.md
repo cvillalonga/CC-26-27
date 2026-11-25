@@ -44,7 +44,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | S. C. NATALIA | <!--enlace-->                                                           |
 | S. H. DARLIGE JACQUES | <!--enlace-->                                                           |
 | T. C. JOSE JAVIER | <!--enlace-->                                                           |
-| T. L. CARLOS | <!--enlace-->                                                           |
+| T. L. CARLOS | [planificador-estudio-cloud](https://github.com/caarlostl/planificador-estudio-cloud) |
 | T. R. IVAN ANDRES | <!--enlace-->                                                           |
 | V. A. EDGAR CAMILO | <!--enlace-->                                                           |
 | W. G. N. JOSE CARLOS | <!--enlace-->                                                           |
